@@ -3,7 +3,7 @@
 My first supervised machine learning project: predicting individual medical insurance charges with **Linear Regression** in Python (scikit-learn).
 
 ## Dataset
-
+The dataset is the [Medical Cost Personal Datasets] from Kaggle
 `Insurance Data.csv` has **1,338 rows and 7 columns**:
 
 | Column | Description |
